@@ -1,0 +1,1 @@
+http://localhost:8983/solr/final_core/spell?spellcheck.q=Bidaan&spellcheck=true
